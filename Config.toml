@@ -1,0 +1,10 @@
+smtpHost = "sandbox.smtp.mailtrap.io"
+smtpUser = "e8b74e08d08dfa"
+smtpPassword = "bf01890614cffd"
+smtpPort = 2525
+
+host = "sahackathon.mysql.database.azure.com"
+username = "demouser"
+password = "Demo#123"
+db = "erandi_db"
+port = 3306
